@@ -3,8 +3,8 @@
 # 👋 Hi, I'm Shaik Kamaluddin
 
 🎓 Cybersecurity Intern | Web App & Network Pentester | Burp Suite | Nmap | Kali Linux  
-📍 Based in India | Open to remote opportunities  
-🌱 Currently learning TryHackMe, Metasploit, and Red Team basics  
+📍 Based in India | Open to On-site · Hybrid remote opportunities  
+🌱 Currently learning TryHackMe, Metasploitable 2, Portswigger and Red Team basics  
 📂 Projects: [Burp Suite Web App Testing](https://github.com/KAMALUDDIN-07/burp-suite-project) • [Nmap Scanning](https://github.com/KAMALUDDIN-07/nmap-internship-project)
 
 ---
@@ -14,7 +14,7 @@
 - 🛰️ Network Scanning: Nmap, Netdiscover  
 - 💻 OS: Kali Linux, Windows  
 - 🌐 Browsers: Firefox (Manual Proxy), Chromium  
-- ⚒️ Platforms: TryHackMe (in progress), GitHub, LinkedIn
+- ⚒️ Platforms: TryHackMe (in progress), Portswigger, GitHub, LinkedIn
 
 ---
 
